@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/test
+/coverage
+/.nyc_output
+
+# dist
+/dist
+
+# more
+.env
+*.sqlite3
+.DS_Store
+*.sql
+*.sql.gz
+*.sql.zip
+*.sqlite
